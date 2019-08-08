@@ -1,0 +1,5 @@
+com\TestCases\SelectHotelTC.class
+com\TestCases\BookAHotelTC.class
+com\TestCases\LogoutTC.class
+com\TestCases\LoginPageTC.class
+com\TestCases\SearchHotelTC.class

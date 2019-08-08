@@ -1,0 +1,6 @@
+com\Objects\SearchHotelPage.class
+com\Objects\LoginPageObjects.class
+com\BasePage\BasePage.class
+com\Objects\SelectHotelPage.class
+com\Objects\BookAHotelPage.class
+com\Objects\LogoutPage.class

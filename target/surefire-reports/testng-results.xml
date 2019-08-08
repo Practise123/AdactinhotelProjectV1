@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58050" started-at="2019-08-07T11:33:58Z" finished-at="2019-08-07T11:34:57Z">
+    <groups>
+    </groups>
+    <test name="Module 1" duration-ms="58050" started-at="2019-08-07T11:33:58Z" finished-at="2019-08-07T11:34:57Z">
+      <class name="com.TestCases.BookAHotelTC">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestCases.BookAHotelTC@731a74c]" name="setUp" is-config="true" duration-ms="44547" started-at="2019-08-07T11:33:58Z" finished-at="2019-08-07T11:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bookAHotel()[pri:0, instance:com.TestCases.BookAHotelTC@731a74c]" name="bookAHotel" duration-ms="12768" started-at="2019-08-07T11:34:43Z" finished-at="2019-08-07T11:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookAHotel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestCases.BookAHotelTC@731a74c]" name="tearDown" is-config="true" duration-ms="704" started-at="2019-08-07T11:34:56Z" finished-at="2019-08-07T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.BookAHotelTC -->
+    </test> <!-- Module 1 -->
+  </suite> <!-- Suite -->
+</testng-results>
